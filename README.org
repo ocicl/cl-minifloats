@@ -1,0 +1,10 @@
+* cl-minifloats
+
+Minifloats (minifloat < single-float) support for Common Lisp.
+
+|---------+------------------------------------------------|
+| source  | git:https://codeberg.org/aartaka/cl-minifloats |
+| commit  | c91886f                                        |
+| systems | cl-minifloats                                  |
+|---------+------------------------------------------------|
+
