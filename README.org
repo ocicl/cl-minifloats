@@ -4,7 +4,7 @@ Minifloats (minifloat < single-float) support for Common Lisp.
 
 |---------+------------------------------------------------|
 | source  | git:https://codeberg.org/aartaka/cl-minifloats |
-| commit  | c91886f                                        |
+| commit  | 61bb7d5                                        |
 | systems | cl-minifloats                                  |
 |---------+------------------------------------------------|
 
